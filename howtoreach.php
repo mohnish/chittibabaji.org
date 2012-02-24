@@ -1,0 +1,2 @@
+to reach the Abode</legend>
+ <p>The Abode of Chittibaba is precisely 23 kilometres from Rajahmundry in Andhra Pradesh, south India.  Rajahmundry is connected by air through Air Deccan flights from Hyderabad, Vijayawada and Chennai, daily. Trains and Bus services from all over to Rajahmundry are also available. Apart from these a number of hired cab-services could be availed from Rajahmundry, Vijayawada and Vishakapatanam. The Samsthanam has no problem with accommodation and food which are free of cost.</p>
