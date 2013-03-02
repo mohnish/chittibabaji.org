@@ -1,0 +1,390 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link {
+	color: #EFA911;
+	text-decoration: none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+a:visited {
+	text-decoration: none;
+	color: #EFA911;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+a:hover {
+	text-decoration: underline;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #ffffff;
+}
+a:active {
+	text-decoration: none;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #EFA911;
+	}
+
+.dropcap {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 49px;
+	line-height: 49px;
+	color: #FFFFFF;
+}
+.dropcapred {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 49px;
+	line-height: 49px;
+	color: #990000;
+}
+.welcome {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 26px;
+	color: #000000;
+}
+.recruiters_sub {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 23px;
+	font-weight: bold;
+	line-height: 26px;
+	color: #000000;
+}
+.bullets {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 18px;
+	color: #000000;
+}
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 20px;
+	color: #666666;
+}
+.quoteref {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	line-height: 20px;
+	color: #666666;
+}
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #910000;
+}
+.home {
+	float:left;
+	margin-right:0em;
+	width:85px;
+	height:32px;
+	position:relative;
+	background: url(../images/home_off.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #000000;
+	text-align:center;
+}
+.homeon {
+	float:left;
+	margin-right:0em;
+	width:85px;
+	height:32px;
+	position:relative;
+	background: url(../images/home_on.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:center;
+}
+.howitworks {
+	float:left;
+	margin-right:0em;
+	width:148px;
+	height:32px;
+	position:relative;
+	background: url(../images/how_it_works_off.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #000000;
+	text-align:center;
+
+}
+.howitworkson {
+	float:left;
+	margin-right:0em;
+	width:148px;
+	height:32px;
+	position:relative;
+	background: url(../images/how_it_works_on.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:center;
+
+}
+.recruiters {
+	float:left;
+	margin-right:0em;
+	width:128px;
+	height:32px;
+	position:relative;
+	background: url(../images/recruiters_off.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #000000;
+	text-align:center;
+
+}
+.recruiterson {
+	float:left;
+	margin-right:0em;
+	width:128px;
+	height:32px;
+	position:relative;
+	background: url(../images/recruiters_on.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:center;
+
+}
+.about {
+	float:left;
+	margin-right:0em;
+	width:114px;
+	height:32px;
+	position:relative;
+	background: url(../images/about_us_off.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #000000;
+	text-align:center;
+
+}
+.abouton {
+	float:left;
+	margin-right:0em;
+	width:114px;
+	height:32px;
+	position:relative;
+	background: url(../images/about_us_on.gif) no-repeat;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:center;
+
+}
+
+.textInput {
+	border: 1px solid #990000;
+	background: #eeeeee;
+	color: #666666;
+	font-size: 12px;
+}
+.bodybk {
+	background: url(../images/dayak_home2.jpg) no-repeat;
+	width:1000px;
+	height:580px;
+	}
+.body2 {
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+	background-image: url(../images/bk2.gif);
+	}
+.body-reg {
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+	background-image: url(../images/bk2.gif);
+	border: 2px solid #999999;
+}
+	
+.vertical {
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+	background-image: url(../images/bk3.gif);
+	}
+.home, .howitworks, .recruiters, .about {
+	background-position:0% 50%;
+}
+.custombutton {padding:0;margin:0;border:none;background:none;cursor:pointer;}
+  * html .custombutton {cursor:hand;} /* alternate cursor style for ie */
+.super {font-size: 14px}
+.subhead {
+	font-size: 16px;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	line-height: 20px;
+	color: #000000;
+}
+.marquee {
+        font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	line-height: 25px;
+	color: #EFA911;
+}
+.subheadred{
+	font-size: 16px;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	line-height: 20px;
+	color: #910000;
+}
+.bodycopy{
+	font-size: 14px;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	line-height: 17px;
+	color: #000000;
+}
+.redsub {
+	color: #FFFF11;
+	font-weight: bold;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 23px;
+}
+.supp{
+	color: #FFFF11;
+	font-weight: bold;
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 15px;
+}
+
+.login_help {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #666666;
+}
+.about-copy {
+	font-size: 14px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	line-height: 25px;
+	color: #333333;
+}
+
+.pageTitle {
+	color: #000000;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.formLabel {
+	color: #000000;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.largeFormLabel {
+	color: #000000;
+	font-size: 14px;
+	font-family: Arial;	
+	padding: 5px;
+}
+
+.disabledInput {
+	background-color: #CCCCCC;
+	border-right: #49201d 1px solid;
+	border-top: #49201d 1px solid;
+	border-left: #49201d 1px solid;
+	border-bottom: #49201d 1px solid;
+	font-size: 10pt;
+	font-family: Arial, Verdana;
+	margin: 2px;
+}
+.enabledInput {
+	background-color: #6fb7f9;
+	border-right: #49201d 1px solid;
+	border-top: #49201d 1px solid;
+	border-left: #49201d 1px solid;
+	border-bottom: #49201d 1px solid;
+	font-size: 10pt;
+	font-family: Arial, Verdana;
+	margin: 2px;
+}
+
+.opaDiv {
+   background-color: #ffffff;  /* the background          */
+   filter: alpha(opacity=50);   /* Internet Explorer       */
+   -moz-opacity:0.5;           /* Mozilla 1.6 and below   */
+   opacity: 0.5;               /* newer Mozilla and CSS-3 */
+   z-index: 50;
+}
+
+.transDiv {
+
+}
+
+.hrRed {
+	color:#980B22; 
+	background:#980B22;
+	width:100%;
+	margin: 0 0 10px;
+	height: 2px;
+}
+.terms_panel {
+display:block;
+}
+.terms_panel_hidden {
+display:none;
+}
+.terms_link {
+	color:#910000;
+	font-size:14px;
+	text-decoration: none;
+}
+.terms_link_active {
+	color:#000000;
+	font-weight:bold;
+	font-size:14px;
+	text-decoration: none;
+}
+.login {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #fff;
+}
+
+.help-text {
+	font-size: 10px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	line-height: 25px;
+	color: #fff;
+}
+.textInput2 {
+	border: 2px solid #999999;
+	color: #666666;
+	font-size: 15px;
+}
+.textInputStandard {
+	border: 2px solid #666666;
+	color: #333333;
+	font-size: 14px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+.error {
+	font-size: 14px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	line-height: 17px;
+	color:#f6f6f6;
+}
+
