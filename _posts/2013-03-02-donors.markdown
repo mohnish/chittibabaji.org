@@ -1,0 +1,17 @@
+---
+title: Donors
+banner: Donor List
+layout: post
+image: banner.jpg
+---
+
+<table border="1">
+  <thead>
+    List of our generous donors
+  </thead>
+  <tr>
+    <td>Name of donor</td>
+    <td>Details of donor</td>
+    <td>Amount donated</td>
+  </tr>
+</table>
