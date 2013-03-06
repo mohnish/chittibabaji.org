@@ -15,6 +15,7 @@ The Ratha Yatra would be divined by the chanting of Vedic hymns by 16 ritwiks, f
 
 The estimated cost of the Dharamasanchaaram is more than 2 Crore Indian Rupees. We have reached a deliberated consensus to publish the names of donors and amount credited along with the effect they would like to use the monies towards. This move would commendably scrap misuse or rerouting your benevolence. We humbly solicit donations and munificence from the kindred.
 
+All the donations to the Ashram are exempt from income tax under 80G of income tax Act. For all the donations to the Ashram original/genuine receipts will be given.
 
 For Donations
 
