@@ -1,3 +1,5 @@
 ;(function(win, doc) {
-  // use api call to get the quotes
+  $('marquee').on('click', function(e) {
+    window.location = "/rathayaatra/";
+  });
 })(window, document);

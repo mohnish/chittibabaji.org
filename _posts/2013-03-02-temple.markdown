@@ -2,7 +2,7 @@
 title: Temple
 banner: Temple
 layout: post
-image: banner1.jpg
+image: temple.jpg
 ---
 
 First part of the temple complex is Babaji’s Samadhi mandir itself, with a big hall and a Kalyan mandapam in front of it.  As soon as one enters the Ashram one finds temples of Sri Ganpathy, Sri.  Subrahmanyam and Sri.  Hanuman, along with Samadhi Mandir.  But in Babaji’s vision, a fleet of comprehensive services were envisaged, which included a large temple complex along with Hospitals, Schools, College, Home for the Destitute and several other service oriented units.

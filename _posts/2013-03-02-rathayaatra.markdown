@@ -5,6 +5,8 @@ layout: post
 image: banner.jpg
 ---
 
+[Download the brochure](/img/Multi_Colour_Brochure.pdf)
+
 Sadguru Sri Chittibabaji Samsthanam of Sriramanagaram in the Seethanagaram Mandal of East Godavari district Andhra Pradesh has mooted a Ratha Yatra, christened Suvarnaprabhasottama Dharamasanchaaram.
 
 The Ratha Yatra is to start immediately in days following Ugadi, the Telugu New Year. The divine procession would have a specially built chariot flanked by two spotless white horses while the chariot itself would carry a picture of Lord Shri Rama snapping an arrow. The Panchaloha Idol of Sadguru Sri Chittibabaji that is to be consecrated in the temple under construction would be the presiding deity. The convoy would have One Hundred and Eight cloth casketed scrolls of Lord Rama with one hundred and eight billion such divine Ramanamam divine names filled in by devotees.
