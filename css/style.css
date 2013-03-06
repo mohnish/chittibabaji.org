@@ -82,11 +82,11 @@ body {
 }
 
 @-ms-keyframes "blink" {
- 0% {
+  0%  {
    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-   filter: alpha(opacity=0);
-   opacity: 0;
- }
+  filter: alpha(opacity=0);
+  opacity: 0;
+}
  50% {
    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
@@ -106,28 +106,32 @@ body {
 
 }
 
-@-o-keyframes "blink" {
- 0% {
+ @-o-keyframes "blink" {
+  0%  {
    filter: alpha(opacity=0);
-   opacity: 0;
- }
+  filter: alpha(opacity=0);
+  opacity: 0;
+}
  50% {
+   filter: alpha(opacity=0);
    filter: alpha(opacity=0);
    opacity: 0;
  }
 
 50.01% {
   filter: alpha(opacity=100);
+  filter: alpha(opacity=100);
   opacity: 1;
 }
  100% {
+   filter: alpha(opacity=100);
    filter: alpha(opacity=100);
    opacity: 1;
  }
 
 }
 
-blink {
+ blink {
   -webkit-animation: blink 0.7s infinite linear alternate;
   -moz-animation: blink 0.7s infinite linear alternate;
   -ms-animation: blink 0.7s infinite linear alternate;
@@ -171,6 +175,7 @@ h4 {
 }
 
 .post-content {
+  min-height: 1100px;
   width: 500px;
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 12px;
@@ -192,8 +197,8 @@ h4 {
 .content {
   width: 800px;
   background: url("../img/bg.gif");
-  min-height: 1100px;
   margin: 0 auto;
+  position: relative;
 }
 
 .post-image {
@@ -209,10 +214,10 @@ li {
 }
 
 .sidebar {
-  color: #000;
   position: absolute;
-  top: 165px;
-  right: 358px;
+  top: 160px;
+  right: 45px;
+  color: #000;
   background-color: #d48f21;
   width: 190px;
   border-radius: 0 5px 5px 0;
@@ -225,24 +230,26 @@ li {
 }
 
 .support-us {
+  position: absolute;
+  top: 480px;
+  right: 45px;
   color: #000;
   padding: 6px;
-  position: absolute;
-  top: 470px;
-  right: 358px;
   background-color: #9e7137;
   width: 178px;
+  height: 500px;
   border-radius: 5px;
 }
 
 .affiliations {
+  position: absolute;
+  top: 1020px;
+  right: 45px;
   color: #000;
   padding: 6px;
-  position: absolute;
-  top: 955px;
-  right: 358px;
   background-color: #9e7137;
   width: 178px;
+  height: 90px;
   border-radius: 5px;
 }
 
