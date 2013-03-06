@@ -5,7 +5,8 @@ layout: post
 image: banner.jpg
 ---
 
-[Download the brochure](/img/Multi_Colour_Brochure.pdf)
+Download the brochure:
+[Telugu version](/img/Multi_Colour_Brochure.pdf) - [English version](/img/Multi_Colour_Brochure_English.pdf)
 
 Sadguru Sri Chittibabaji Samsthanam of Sriramanagaram in the Seethanagaram Mandal of East Godavari district Andhra Pradesh has mooted a Ratha Yatra, christened Suvarnaprabhasottama Dharamasanchaaram.
 
