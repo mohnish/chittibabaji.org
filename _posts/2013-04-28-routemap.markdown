@@ -1,0 +1,10 @@
+---
+title: Rathayathra Route Map
+banner: Rathayathra Route Map
+layout: post
+image: banner.jpg
+---
+
+NOTE: The route map will be updated from time to time. Please check it out for latest updates.
+
+<a href="/img/route_map_details.pdf">ROUTE MAP DETAILS</a>
