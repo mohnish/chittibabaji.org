@@ -9,6 +9,14 @@
 </head>
 
 <body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=239352132853625";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
   <section class="content">
     <div class="header">
       <img src="/img/logo.gif" alt="Logo">
@@ -61,6 +69,10 @@
     <div class="post-content">
       {{ content }}
       <br>
+      <div class="fb-like" data-href="http://chittibabaji.org{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="trebuchet ms"></div>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://chittibabaji.org{{ page.url }}">Tweet</a>
+      <div class="g-plusone" data-href="http://chittibabaji.org{{ page.url }}"></div>
+
     </div>
 
     <div class="support-us">
@@ -103,5 +115,14 @@
   <embed src="/img/namam2.mp3" autostart="True" hidden="True"> </embed>
   <script src="/js/jquery.js"></script>
   <script src="/js/script.js"></script>
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
 </body>
 </html>
